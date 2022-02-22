@@ -9,7 +9,7 @@ describe('parseJSON', function() {
       // Replace this line with an `expect` statement that tests
       // the behavior described by the `it` string
       expect(equality).to.eql(true);
-      throw new Error('Test is missing.')
+      // throw new Error('Test is missing.');
     });
   });
 
